@@ -114,4 +114,4 @@ To develop an interactive dashboard that:
 
 **Dashboard Preview**
 
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/pandey0012/Adventure-work-Sales-Dashboard/blob/main/Snapshot%20of%20Dashboard.png)
